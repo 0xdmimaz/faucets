@@ -24,4 +24,4 @@ async function getUallo(){
 
 // setInterval(getUallo,60000);
 
-getUallo()
+void getUallo();
